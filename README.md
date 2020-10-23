@@ -1,2 +1,2 @@
 # Trajectory-Prediction-LSTM
-Human Trajectory Prediction using LSTM/GRUs
+Human Trajectory Prediction using LSTM/GRUs (In-complete)
